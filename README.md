@@ -32,15 +32,14 @@ A low-cost home intrusion detection system. A PIR sensor detects motion, trigger
 ## Results
 Motion was detected in real time, the local alarm triggered, and a remote notification was sent to the phone.
 
+## circuit diagram and simulation 
+![Screenshot 2025-05-04 171245](https://github.com/user-attachments/assets/19e217ac-10e1-4f59-83df-5cb01e28d10d)
+
 
 ## Future Improvements
 - ESP32-CAM for image capture
 - Event logging to the cloud
 - Door lock control
-
-## circuit diagram and simulation 
-![Screenshot 2025-05-04 171245](https://github.com/user-attachments/assets/19e217ac-10e1-4f59-83df-5cb01e28d10d)
-
 
 
 
